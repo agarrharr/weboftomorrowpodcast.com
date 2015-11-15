@@ -3,7 +3,7 @@ organizationName: Web of Tomorrow
 podcastSubtitle:
 managerName: Adam Harris
 managerEmail: aharris88@gmail.com
-squareLogo: assets/uploads/logo.jpg
+squareLogo: assets/uploads/logo.png
 description: "A podcast about web development"
 baseurl: ""
 url: "http://www.weboftomorrowpodcast.com"
