@@ -41,8 +41,8 @@
 				<itunes:keywords>{{ post.keywords }}</itunes:keywords>
 				<itunes:image href="{% if post.image %}{{ site.url }}/{{ post.image }}{% else %}{{ site.url }}/{{site.squareLogo}}{% endif %}" />
 				<itunes:explicit>clean</itunes:explicit>
-				<itunes:summary><![CDATA[{{ post.content }}]]></itunes:summary>
-				<description><![CDATA[{{ post.content }}]]></description>
+				<itunes:summary><![CDATA[{{post.summary}}&#10;&#10;{{ post.content | xml_escape }}]]></itunes:summary>
+				<description><![CDATA[{{post.summary}}&#10;&#10;{{ post.content | xml_escape }}]]></description>
 			</item>
 		{% endfor %}
 	</channel>
