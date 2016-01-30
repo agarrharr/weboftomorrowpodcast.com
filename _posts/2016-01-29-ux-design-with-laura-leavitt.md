@@ -9,5 +9,4 @@ permalink: /17
 ---
 
 - [Laura Leavitt's website](http://cargocollective.com/socialexplosion)
-
 - [Laura's Twitter (@othercrimes)](https://twitter.com/othercrimes)
