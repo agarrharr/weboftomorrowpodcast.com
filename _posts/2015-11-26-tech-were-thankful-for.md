@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tech We're Thankful For
+title: "12: Tech We're Thankful For"
 summary: In which we talk about what tech we're thankful for.
 link: https://s3.amazonaws.com/weboftomorrow/2015-11-26-12.m4a
 size: 34230831

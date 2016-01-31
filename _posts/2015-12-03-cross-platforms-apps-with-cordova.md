@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cross Platform Apps With Cordova
+title: "13: Cross Platform Apps With Cordova"
 summary: In which we talk about how you can build cross platform apps using web technologies with Cordova/Phonegap.
 link: https://s3.amazonaws.com/weboftomorrow/2015-12-03-13.m4a
 size: 29740499

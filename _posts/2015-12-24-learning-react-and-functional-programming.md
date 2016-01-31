@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning React and Functional Programming
+title: "14: Learning React and Functional Programming"
 summary: In which we talk about how Adam is learning functional programming and Riley is learning React.
 link: https://s3.amazonaws.com/weboftomorrow/2015-12-24-14.m4a
 size: 16937039

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Git and Github
+title: "6: Git and Github"
 summary: In which we talk about Git and Github.
 link: https://s3.amazonaws.com/weboftomorrow/2015-10-06-6.m4a
 size: 30418597

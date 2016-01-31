@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Functions
+title: "10: Functions"
 summary: In which we talk about functions in JavaScript and how powerful they are.
 link: https://s3.amazonaws.com/weboftomorrow/2015-10-29-10.m4a
 size: 50618197

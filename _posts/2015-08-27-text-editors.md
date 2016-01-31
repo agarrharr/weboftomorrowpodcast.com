@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Text Editors
+title: "1: Text Editors"
 summary: In which we talk about text editors
 link: https://s3.amazonaws.com/weboftomorrow/2015-08-27-1.m4a
 size: 29879043

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coding Resources
+title: "7: Coding Resources"
 summary: In which we talk about where to learn about how to learn to code for the web.
 link: https://s3.amazonaws.com/weboftomorrow/2015-10-08-7.m4a
 size: 36230893

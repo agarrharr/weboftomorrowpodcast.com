@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World
+title: "0: Hello World"
 summary: In which we kick off the podcast
 link: https://s3.amazonaws.com/weboftomorrow/2015-08-25-0.m4a
 size: 33245851
