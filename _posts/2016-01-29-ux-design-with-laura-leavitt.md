@@ -10,3 +10,4 @@ permalink: /17
 
 - [Laura Leavitt's website](http://cargocollective.com/socialexplosion)
 - [Laura's Twitter (@othercrimes)](https://twitter.com/othercrimes)
+- [Don't Make Me Think by Steve Krug](http://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/?tag=adaharris09-20)
