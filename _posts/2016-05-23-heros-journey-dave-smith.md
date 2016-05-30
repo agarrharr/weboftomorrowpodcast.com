@@ -4,7 +4,7 @@ title: "24: Hero's Journey - Dave Smith - Engineering Director"
 summary: "In which Riley interviews Dave Smith, a panelist on JavaScript Jabber, and an Engineering Director at HireVue, about how he got into programming."
 link: https://s3.amazonaws.com/weboftomorrow/2016-05-23-24.mp3
 size: 51515895
-length: '00:00:00'
+length: '00:35:46'
 permalink: /24
 ---
 
