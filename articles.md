@@ -4,6 +4,7 @@ title: Articles
 permalink: /articles/
 ---
 
+- [3 Tools for overcoming the Imposter Syndrome](https://medium.com/@rileyjosec/3-tools-for-overcoming-the-imposter-syndrome-446901f2b228)
 - [How to Publish a Jekyll Development Branch with Netlify](http://www.adamwadeharris.com/how-to-publish-a-jekyll-development-branch-with-netlify/)
 - [How to Start Learning JavaScript](http://www.adamwadeharris.com/how-to-start-learning-javascript/)
 - [Brain Crack](http://www.adamwadeharris.com/brain-crack/)
