@@ -2,7 +2,7 @@ Thanks for coming on the show! Here are a few things you should know to be prepa
 
 ## Advance Preparation
 
-Episode planning happens on the [GitHub repo issues](/issues?q=is%3Aissue+is%3Aopen+label%3Aepisode). Please comment on the issue with the following information.
+Episode planning happens on the [GitHub repo issues](https://github.com/aharris88/weboftomorrowpodcast.com/issues?q=is%3Aissue+is%3Aopen+label%3Aepisode). Please comment on the issue with the following information.
 
 - Your name
 - Your twitter handle
