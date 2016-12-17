@@ -10,3 +10,6 @@ We are [Riley Carrasquillo](https://twitter.com/portoreekan) (the noob) and [Ada
 
 
 You can subscribe with [rss](http://www.weboftomorrowpodcast.com/feed.rss), [iTunes](https://itunes.apple.com/us/podcast/web-of-tomorrow/id1033636563), or on [Google Play Music](https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Iiner35ag2pcyhsp6zy3myk5z6e?t%3DWeb_of_Tomorrow).
+
+
+The opinions expressed in this podcast, by the hosts or guests, are our own and may not reflect the opinions of our employers.
