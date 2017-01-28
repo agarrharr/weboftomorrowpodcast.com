@@ -10,7 +10,7 @@ permalink: /articles/
 - [Brain Crack](http://www.adamwadeharris.com/brain-crack/)
 - [How to Convert a Wordpress Site to Jekyll with Github Pages](http://www.adamwadeharris.com/how-to-convert-a-wordpress-site-to-jekyll-with-github-pages/)
 - [What I Look For in an Open Source Project](http://www.adamwadeharris.com/what-i-look-for-in-an-open-source-project/)
-- [http://www.adamwadeharris.com/vim-cheatsheet/](Vim Cheatsheet)
+- [Vim Cheatsheet](http://www.adamwadeharris.com/vim-cheatsheet/)
 - [My iTerm 2 Setup](http://www.adamwadeharris.com/my-iterm-2-setup/)
 - [How to Learn Vim](http://www.adamwadeharris.com/how-to-learn-vim/)
 - [Remote Debugging in Phonegap with Chrome Devtools](http://www.adamwadeharris.com/remote-debugging-in-phonegap-with-chrome-devtools/)
