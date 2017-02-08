@@ -10,8 +10,8 @@
 		<managingEditor>{{ site.managerEmail }} ({{ site.managerName }})</managingEditor>
 		<webMaster>{{ site.managerEmail }} ({{ site.managerName }})</webMaster>
 		<copyright>{{site.time | date: "%Y" }} {{ site.organizationName }}</copyright>
-		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+		<pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S GMT" }}</pubDate>
+		<lastBuildDate>{{ site.time | date: "%a, %d %b %Y" }}</lastBuildDate>
 		<image>
 			<link>{{ site.url}}</link>
 			<url>{{ site.url }}/{{ site.squareLogo}}</url>
@@ -46,8 +46,8 @@
 				<itunes:keywords>{{ post.keywords }}</itunes:keywords>
 				<itunes:image href="{% if post.image %}{{ site.url }}/{{ post.image }}{% else %}{{ site.url }}/{{site.squareLogo}}{% endif %}" />
 				<itunes:explicit>clean</itunes:explicit>
-				<itunes:summary><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]></itunes:summary>
-				<description><![CDATA[{{post.summary}}&#10;&#10;{{ post.content | cdata_escape }}]]></description>
+				<itunes:summary>{{ post.content | xml_escape }}</itunes:summary>
+				<description>{{ post.content | xml_escape }}</description>
 			</item>
 		{% endfor %}
 	</channel>
