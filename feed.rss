@@ -10,8 +10,8 @@
 		<managingEditor>{{ site.managerEmail }} ({{ site.managerName }})</managingEditor>
 		<webMaster>{{ site.managerEmail }} ({{ site.managerName }})</webMaster>
 		<copyright>{{site.time | date: "%Y" }} {{ site.organizationName }}</copyright>
-		<pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S GMT" }}</pubDate>
-		<lastBuildDate>{{ site.time | date: "%a, %d %b %Y" }}</lastBuildDate>
+		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 		<image>
 			<link>{{ site.url}}</link>
 			<url>{{ site.url }}/{{ site.squareLogo}}</url>
@@ -33,6 +33,7 @@
 			<itunes:category text="Software How-To"/>
 		</itunes:category>
 		<itunes:explicit>clean</itunes:explicit>
+		<atom:link href="{{ site.url }}/{{ page.path }}" rel="self" type="application/rss+xml" />
 		{% for post in site.posts %}
 			<item>
 				<title>{{ post.title }}</title>
@@ -52,4 +53,3 @@
 		{% endfor %}
 	</channel>
 </rss>
-
