@@ -33,7 +33,6 @@
 			<itunes:category text="Software How-To"/>
 		</itunes:category>
 		<itunes:explicit>clean</itunes:explicit>
-		<atom:link href="{{ site.url }}/{{ page.path }}" rel="self" type="application/rss+xml" />
 		{% for post in site.posts %}
 			<item>
 				<title>{{ post.title }}</title>
