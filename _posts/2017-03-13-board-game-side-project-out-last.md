@@ -8,4 +8,4 @@ length: '00:13:14'
 permalink: /35
 ---
 
-- [Out Last: Westbrooke on Kickstarter](https://www.kickstarter.com/projects/psychocat/out-last-westbrooke?ref=profile_created)
+- [Out Last: Westbrooke on Kickstarter](https://www.kickstarter.com/projects/psychocat/out-last-westbrooke)
