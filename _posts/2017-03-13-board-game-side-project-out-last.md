@@ -9,3 +9,15 @@ permalink: /35
 ---
 
 - [Out Last: Westbrooke on Kickstarter](https://www.kickstarter.com/projects/psychocat/out-last-westbrooke)
+
+- Music Licenses purchased through [Music Bed](https://www.musicbed.com/)
+    - [On the Mountain by the Sea](https://www.musicbed.com/songs/on-the-mountain-by-the-sea/24242)
+        - Artist: [UTAH](https://www.musicbed.com/artists/utah/43429)
+        - Licenses: Personal Use, Single Use, Perpetual
+        - Territory: Worldwide
+        - Production: Web of Tomorrow
+    - [Mourning Rite](https://www.musicbed.com/songs/mourning-rite/24929)
+        - Artist: [Makeup And Vanity Set](https://www.musicbed.com/artists/makeup-and-vanity-set/43288)
+        - Licenses: Personal Use, Single Use, Perpetual
+        - Territory: Worldwide
+        - Production: Web of Tomorrow
