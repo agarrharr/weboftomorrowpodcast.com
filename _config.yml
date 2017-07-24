@@ -7,6 +7,7 @@ squareLogo: assets/uploads/logo5.jpg
 description: "A podcast about JavaScript, web development, web design, and technology."
 baseurl: ""
 url: "http://www.weboftomorrowpodcast.com"
+gems: [jekyll-paginate]
 
 # Google analytics
 google_analytics: UA-31980509-13
