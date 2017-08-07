@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "38: Storybook - Marie Laure Thuret"
-summary: "Storybook is an interactive development & testing environment for React and React-Native UI components. Marie explains why it's useful an d how they use it at Algolia."
+summary: "Storybook is an interactive development & testing environment for React and React-Native UI components. Marie explains why it's useful and how they use it at Algolia."
 link: https://s3.amazonaws.com/weboftomorrow/2017-07-24-38.mp3
-size: 85609184
-length: '00:44:11'
+size: 26318152
+length: '00:23:25'
 permalink: /38
 ---
 
