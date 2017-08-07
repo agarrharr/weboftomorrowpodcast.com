@@ -18,7 +18,7 @@ permalink: /39
 <h2>Transcript</h2>
 <dl>
 <dt>Adam Garrett-Harris</dt>
-<dd>Alright, welcome to Web of Tomorrow. I'm Adam Garret-Harris and today we're talking with Kyle Matthews and creator of Gatsbyjs</dd>
+<dd>Alright, welcome to Web of Tomorrow. I'm Adam Garrett-Harris and today we're talking with Kyle Matthews and creator of Gatsbyjs</dd>
 
 <dt>Kyle Mathews</dt>
 <dd>Hey everyone!</dd>
