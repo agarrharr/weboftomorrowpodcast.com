@@ -1,3 +1,9 @@
+---
+layout: page
+title: Guests
+permalink: /guests/
+---
+
 Thanks for coming on the show! Here are a few things you should know to be prepared.
 
 ## Advance Preparation
