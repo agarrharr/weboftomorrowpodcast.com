@@ -24,20 +24,14 @@ permalink: /39
 <dl>
 <dt>Adam Garrett-Harris</dt>
 <dd>Alright, welcome to Web of Tomorrow. I'm Adam Garrett-Harris and today we're talking with Kyle Matthews, the creator of Gatsbyjs</dd>
-
 <dt>Kyle Mathews</dt>
 <dd>Hey everyone!</dd>
-
-
 <dt>Adam</dt>
 <dd>So what is Gatsby?</dd>
-
 <dt>Kyle</dt>
 <dd>Gatsby is a blazing fast React static site generator and it aims to give you a really nice out-of-the-box experience where everything is set up for you: React, Webpack, different CSS options, modern JavaScript etc. And you can build really fast sites without a lot of effort on your part.</dd>
-
 <dt>Adam</dt>
 <dd>Cool. So, how did you get the idea for Gatsby?</dd>
-
 <dt>Kyle</dt>
 <dd>Basically, so I started using React pretty early so it was open source like mid 2013 and it got on my radar then and I was working at a job in San Francisco, a startup, building JavaScript web applications with Backbone and I really liked in a lot of ways, but it had a lot of weird sharp edges / missing things and React just came along I was like "This is so beautiful, the component model." Because I mean components is an old idea. React didn't invent the idea of components. I mean backbone components existed, but they were kind of just missing a lot of stuff. Anyway, so React component was just like so beautiful.</dd>
 <dd>And so anyway, I start following that and I quit that job like early 2014 and just started doing a bunch of stuff with React was like this is the future that's what I want to learn and do everything with and then mid-ish 2014 a friend and I we started working on startup. So I worked on that for a while and it was building our web application with react of course and then early 2015 it was getting to a point we were like "Ok, we kind of know what we're doing. We have the application sort of working like start to go public pretty soon and of course need website and I was like "Okay, I haven't build like a website website in a while. How do people do that these days?" And I was looking around I was like "Oh man. I hate all these things because I'd use like Drupal and WordPress and built my own little static site generator in the past. I was like "These are all terrible. I want to use React components and Webpack and all these other really nice modern tools. There was other people thinking about the same thing at the time and I just thought about it a bunch and I figured out a clever way to pull all those together. And so that was the first version of Gatsby that I built just for my startup's website.</dd>
@@ -59,8 +53,7 @@ permalink: /39
 <dd>Especially if you want to be fast</dd>
 <dt>Kyle</dt>
 <dd>Yeah, especially if you want it to be fast, which is pretty much everyone.</dd>
-Yeah, it's also an interesting fit for kind of like hybrid website web apps. There's several startups that are
-<dd>building everything basically on Gatsby. So they have their marketing site, which is static but then Gatsby v1 also has the ability to have client only sections of the site, which then just a traditional web app that loads up and hits an API and then does it's thing from there.</dd>
+<dd>Yeah, it's also an interesting fit for kind of like hybrid website web apps. There's several startups that are building everything basically on Gatsby. So they have their marketing site, which is static but then Gatsby v1 also has the ability to have client only sections of the site, which then just a traditional web app that loads up and hits an API and then does it's thing from there.</dd>
 <dt>Adam</dt>
 <dd>Yeah, because you're just building it in React</dd>
 <dd>Yeah, and then it's just all React and so it just works.</dd>
@@ -145,7 +138,6 @@ Yeah, it's also an interesting fit for kind of like hybrid website web apps. The
 <dd>So the interesting thing about the local stuff is that in the Gatsby world data coming from your local file system is treated exactly the same as data coming from remote API's. As far as Gatsby is concerned it's just data that just arrives from somewhere. So Gatsby's system is basically there's source plugins and then there's transformer plugins. And so source plugins, their responsibility is somewhere out there in the world there's data and it pulls it in somehow and it's up to the source plugin how it does that it could use carrier pigeons or, probably doesn't, but it probably uses JavaScript NPM libraries or something or API calls to get stuff. So in the case of a file system the source file system plugin, you just tell it what directory to look at and then it goes through that directory and recursively finds all the files and then adds those as nodes, which is the basic Gatsby data type into Gatsby and then those are usable. But for a remote source plugin, it was just hit an API and then pull into that from there and then somehow turn that into nodes, which then go into Gatsby.</dd>
 <dd>And then transform plugins, how they work is that, so source plugins say "Hey, I know how to completely handle my data, so I'm just going to add them as.. the data was already decomposed into fields so there's no more decomposition that can happen. Like there's a title field, and there's a date field, and this, that, and the other thing. It's already in its final state, but there's often times where you have data that the source plugin is like "Well, I don't really know exactly what the end user wants to do with this and so I'm going to leave in unconverted form, a raw source form that then can be converted per the needs of an individual site. So, markdown is a really obvious example of this because it's pretty common and so a source plugin say, "Hey I have this node and it's markdown and I'm not going to do anything with it. It's just markdown. This node is has is raw content that's markdown. Then transformer plugins can come along and say "Hey, I know how to transform markdown into something else.", which of course typically is HTML so there's then transformer plugins that take this raw content, markdown, and then turn it into HTML and so it basically says "Here's a node that's a type markdown and I'm going to transform it into a new node that's a type HTML. And so this sort of transformations can happen from any one data type to another data type.</dd>
 <dd>So there's a CSV transformer, which takes a CSV file and turns it into, each row is now a new node. Same thing with JSON, YAMl, there's image transformer plugins, which take an image and then can resize the image and turn down the grayscale, can do basically anything that you want.</dd>
-And is
 <dt>Adam</dt>
 <dd>Is it all done with JavaScript?</dd>
 <dt>Kyle</dt>
@@ -192,8 +184,7 @@ And is
 <dt>Kyle</dt>
 <dd>No, so we talked earlier about the startup. So I built the first version Gatsby just to build that website basically, and I started working on the next major version of Gatsby that was released a few weeks ago when I quit that startup. I quit that startup I was looking around. Ok what's the next big thing I'm going to do? And Gatsby seemed... There's just tons of changes right now around how we build stuff for the web and a lot of the mainstays of tools for building websites, like WordPress, Drupal, Joomla, a whole host of proprietary tools. They just don't work as well anymore with how we've all shifted to using smartphones all the time. And the billions of people coming online in other countries that are on smartphones on crappy networks and so forth.</dd>
 <dd>Most of the old tools assume you're on desktop and have a reliable network connection. And when you shift away from that world, all of a sudden these sites get super slow. I profiled downy.com a while ago and on a 3G network on smartphone it was 18 seconds or something to load, which is just insane. You have this pretty high profile site that's just yeah horrendously unoptimized.</dd>
-The point is, I was looking around, and a ton of companies know that they need to have their websites work
-<dd>fast on mobile and they just don't have the tools to do it and really technically advanced companies are just building stuff custom in-house, but that's only a few small percentages of companies that are able to do that. That have the engineering talent and vision and a critical need to spend the 500k or something to build their own framework in-house to power things.</dd>
+<dd>The point is, I was looking around, and a ton of companies know that they need to have their websites work fast on mobile and they just don't have the tools to do it and really technically advanced companies are just building stuff custom in-house, but that's only a few small percentages of companies that are able to do that. That have the engineering talent and vision and a critical need to spend the 500k or something to build their own framework in-house to power things.</dd>
 <dt>Adam</dt>
 <dd>I noticed something else really cool about Gatsby, is if you turn off JavaScript, it still works. At least the initial page loads and all the links work. It just does a full network request. That's pretty cool.</dd>
 <dt>Kyle</dt>
