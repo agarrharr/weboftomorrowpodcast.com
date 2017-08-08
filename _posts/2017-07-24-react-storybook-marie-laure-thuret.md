@@ -119,8 +119,6 @@ transcript: >
   </dl>
 ---
 
-## Show Notes
-
 - [Storybook](https://github.com/storybooks/storybook)
 - [Marie's Talk at React Conf](https://www.youtube.com/watch?v=PF0Vi-iIyoo)
 

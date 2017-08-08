@@ -248,8 +248,6 @@ transcript: >
   </dl>
 ---
 
-## Show Notes
-
 - [Gatsby Website](https://www.gatsbyjs.org/)
 - [Gatsby Github](https://github.com/gatsbyjs/gatsby)
 - [Plugins wishlist (and example sites)](https://github.com/gatsbyjs/gatsby/issues/1199)
