@@ -20,6 +20,13 @@ layout: default
   {{ content }}
 </article>
 
+{% if page.transcript %}
+<article class="Transcript">
+  <h2>Transcript</h2>
+  {{ page.transcript }}
+</article>
+{% endif %}
+
 {% if site.show_sharing_icons %}
   {% include share_buttons.html %}
 {% endif %}
