@@ -12,6 +12,9 @@ gems: [jekyll-paginate]
 # Google analytics
 google_analytics: UA-31980509-13
 
+# Drip
+drip: 5919694
+
 # Optional features
 animated:           false
 show_related_posts: false
