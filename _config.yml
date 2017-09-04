@@ -52,6 +52,6 @@ share_hackernews: false
 # Build settings
 markdown:     kramdown
 permalink: /:title
-paginate:     3
+paginate:     10
 sass:
   compressed: true
