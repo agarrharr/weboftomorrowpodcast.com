@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "40: Emotion - Kye Hohenberger"
-summary: "Kye Hohenberger is the creator of Emotion, a CSS-in-JS library. He talks about the benefits of CSS-in-JS and of emotion in particular."
+summary: "Kye Hohenberger is the creator of Emotion, a high performance, lightweight css-in-js library. He talks about the benefits of CSS-in-JS and of emotion in particular."
 link: https://s3.amazonaws.com/weboftomorrow/2017-08-21-40.mp3
 size: 33545092
 length: '00:48:15'
 permalink: /40
+guest: "kye-hohenberger"
 ---
 
 - [Kye's Tweet](https://twitter.com/tkh44/status/887412117456003076)
