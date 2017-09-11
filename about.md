@@ -6,6 +6,8 @@ permalink: /about/
 
 A podcast about the web and the people who build it. It's hosted by [Adam Garrett-Harris](https://twitter.com/agarrharr), and I interview people that I think are doing interesting things (usually related to web development (sometimes [board games](http://www.weboftomorrowpodcast.com/35)).
 
+The logo was designed by [Adam Christiansen](https://dribbble.com/shots/3294944-Web-Of-Tomorrow) and the intro and outro music is by [Andrew Jensen](https://github.com/andrewjensen).
+
 ## Reach out
 
 Feel free to reach out to us on [Twitter](https://twitter.com/weboftomorrowfm) and please rate and review the podcast if you like it.
