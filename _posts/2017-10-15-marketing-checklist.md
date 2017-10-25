@@ -2,7 +2,7 @@
 layout: post
 title: "43: Side Project Marketing Checklist - Karl Hughes"
 summary: "You don't have a ton of time to devote to your side project. You can use this side project checklist to learn how to actually launch a  product from start to finish."
-link: https://s3.amazonaws.com/weboftomorrow/2017-10-15-43.mp3
+link: https://s3.amazonaws.com/weboftomorrow/2017-10-21-43.mp3
 size: 94021885
 length: '00:48:43'
 permalink: /43
