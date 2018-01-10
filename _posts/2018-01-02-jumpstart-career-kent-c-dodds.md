@@ -3,7 +3,7 @@ layout: post
 title: "44: How to Jumpstart Your Career - Kent C. Dodds"
 summary: "Kent C. Dodds has accomplished a lot in a short amount of time in his career. He's built a bunch of stuff, taught workshops, create egghead courses, and spoken internationally. We talked about some of the things he's learned along the way about how to jumpstart your career."
 link: https://s3.amazonaws.com/weboftomorrow/2018-01-02-44.mp3
-size: 
+size: 78484678
 length: '00:40:30'
 permalink: /44
 guest: "kent-c-dodds"
