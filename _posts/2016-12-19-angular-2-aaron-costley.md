@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "29: Angular 2 - Aaron Costley"
-summary: "In which we talk with Aaron Costley, a software engineer at Amazon, about Angular 2 and why he chose it for his latest project at Amazon."
+summary: "In which I talk with Aaron Costley, a software engineer at Amazon, about Angular 2 and why he chose it for his latest project at Amazon."
 link: https://s3.amazonaws.com/weboftomorrow/2016-12-19-29.mp3
 size: 34055774
 length: '00:17:42'

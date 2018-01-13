@@ -8,4 +8,4 @@ length: '00:26:00'
 permalink: /10
 ---
 
-[JavaScript Path](https://github.com/javascript-society/javascript-path)
+- [JavaScript Path](https://github.com/javascript-society/javascript-path)

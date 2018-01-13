@@ -8,4 +8,4 @@ length: '00:24:56'
 permalink: /4
 ---
 
-[Discover DevTools](http://discover-devtools.codeschool.com/)
+- [Discover DevTools](http://discover-devtools.codeschool.com/)

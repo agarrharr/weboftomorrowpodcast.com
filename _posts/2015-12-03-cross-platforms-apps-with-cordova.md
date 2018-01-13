@@ -8,9 +8,9 @@ length: '00:14:55'
 permalink: /13
 ---
 
-* [Cordova](http://cordova.apache.org/)
-* [Ionic](http://ionicframework.com/)
-* [Meteor](https://www.meteor.com/)
-* [JQuery UI](http://jqueryui.com/)
-* [Adam's Video on Getting Started with Cordova](https://www.youtube.com/watch?v=W0jQUjNKNWY)
-* [Adam's post on How to Setup Remote Debugging in Phonegap](http://www.adamwadeharris.com/setup-remote-debugging-phonegap/)
+- [Cordova](http://cordova.apache.org/)
+- [Ionic](http://ionicframework.com/)
+- [Meteor](https://www.meteor.com/)
+- [JQuery UI](http://jqueryui.com/)
+- [Adam's Video on Getting Started with Cordova](https://www.youtube.com/watch?v=W0jQUjNKNWY)
+- [Adam's post on How to Setup Remote Debugging in Phonegap](http://www.adamwadeharris.com/setup-remote-debugging-phonegap/)

@@ -8,6 +8,5 @@ length: '00:15:14'
 permalink: /6
 ---
 
-[Try Github](https://try.github.io)
-
-[Pro Git Book](http://www.git-scm.com/book/en/v2)
+- [Try Github](https://try.github.io)
+- [Pro Git Book](http://www.git-scm.com/book/en/v2)
