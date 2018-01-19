@@ -4,7 +4,7 @@
 
 [Info for Guests](/guests.md)
 
-If you'd like to be a guest on the show, or if you have ideas for an episode, feel free to [submit an issue](/issues/new).
+If you'd like to be a guest on the show, or if you have ideas for an episode, feel free to [submit an issue](https://github.com/agarrharr/weboftomorrowpodcast.com/issues/new).
 
 ## Contributing
 
