@@ -8,6 +8,7 @@ description: "A podcast about JavaScript, web development, web design, and techn
 baseurl: ""
 url: "http://www.weboftomorrowpodcast.com"
 gems: [jekyll-paginate]
+include: [_redirects]
 
 # Google analytics
 google_analytics: UA-31980509-13
